@@ -15,7 +15,8 @@ The company is requesting a report detailing the profitability of its branches, 
 - Data analysis
 - KPI cards
   
-## Some conclusions
+## 🖼️ Capturas del informe de gestión
+
 ### Medellín is the sales leader.:
 <img width="744" height="420" alt="image" src="https://github.com/user-attachments/assets/a947e6f6-5059-42d6-be15-13b05eb5988a" />
 
