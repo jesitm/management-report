@@ -40,5 +40,8 @@ The company is requesting a report detailing the profitability of its branches, 
 
 <img width="855" height="415" alt="image" src="https://github.com/user-attachments/assets/d569eade-d02c-42fb-9337-6efeb3e9ef99" />
 
-## Tech Stack
-Python · Pandas · Matplotlib · Seaborn · DAX Studio · Power Query · Power BI
+## 🛠️ Tech Stack
+
+- **Lenguaje:** Python
+- **Análisis y visualización con Python:** Pandas, Matplotlib, Seaborn
+- **Business Intelligence:** Power BI, Power Query, DAX Studio
