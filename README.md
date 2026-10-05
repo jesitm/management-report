@@ -4,8 +4,6 @@ Based on sales data from a company with a presence in various cities and multipl
 ## Business Problem
 The company is requesting a report detailing the profitability of its branches, sales staff performance, and rankings of the brands and products it markets, in order to make decisions regarding the opening or closing of branches and partnerships with product brands, among other matters.
 
-## Preview
-
 ## 🔹 Data Preparation (ETL)
 - Data import from CSVs
 - Data cleaning
