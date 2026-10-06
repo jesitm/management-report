@@ -25,6 +25,7 @@ The company is requesting a report detailing the profitability of its branches, 
 
 #### Pereira
 <img width="963" height="541" alt="image" src="https://github.com/user-attachments/assets/8cbf666c-af6b-41d6-aa57-b384de830a4c" />
+
 #### Cali
 <img width="957" height="538" alt="image" src="https://github.com/user-attachments/assets/0ac2f19c-7caf-4e83-8e6d-77e497a586a6" />
 
